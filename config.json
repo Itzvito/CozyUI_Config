@@ -1,10 +1,16 @@
 {
 	"defaultGroup": [
 		{
-			"key": "$cozy_test",
+			"key": "$cozy_hello",
 			"default": false,
 			"zh": "Hello",
 			"en": "Hello"
+		},
+		{
+			"key": "$cozy_test",
+			"default": true,
+			"zh": "Test",
+			"en": "Test"
 		},
 		{
 			"key": "$cozy_java_progress_screen",
