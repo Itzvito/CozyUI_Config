@@ -1,0 +1,187 @@
+{
+  "defaultGroup": [
+    {
+      "key": "$cozy_java_progress_screen",
+      "default": false,
+      "zh": "Java 版加载界面",
+      "en": "Java progress screen"
+    },
+    {
+      "key": "$cozy_button_hover_animation",
+      "default": true,
+      "zh": "按钮悬停动画",
+      "en": "Button hover animation"
+    },
+    {
+      "key": "$cozy_ender_chest_texture",
+      "default": true,
+      "zh": "末影箱背景贴图",
+      "en": "New ender chest background texture"
+    },
+    {
+      "key": "$cozy_pause_screenshot_button",
+      "default": false,
+      "zh": "暂停界面截图按钮（仅旧版本可用）",
+      "en": "Pause screen screenshot button (legacy versions only)"
+    },
+    {
+      "key": "$cozy_title_screen_server_button",
+      "default": false,
+      "zh": "主界面服务器按钮（旧版本可能失效）",
+      "en": "Title screen server button (may break on older versions)"
+    },
+    {
+      "key": "$cozy_tooltip_follow_cursor",
+      "default": true,
+      "zh": "物品提示框跟随光标",
+      "en": "Item tooltip follows cursor"
+    },
+    {
+      "key": "$cozy_xp_bar_gradient_animation",
+      "default": true,
+      "zh": "经验条动态渐变贴图",
+      "en": "XP bar animated gradient texture"
+    },
+    {
+      "key": "$cozy_hotbar_selector_gradient_animation",
+      "default": true,
+      "zh": "快捷栏选择框动态渐变",
+      "en": "Hotbar selector animated gradient texture"
+    },
+    {
+      "key": "$cozy_container_screen_bg",
+      "default": false,
+      "zh": "开启容器界面背景",
+      "en": "Enable container screen background"
+    },
+    {
+      "key": "$cozy_double_tap_close_container",
+      "default": false,
+      "zh": "双击关闭容器界面",
+      "en": "Double-tap to close container screen"
+    },
+    {
+      "key": "$cozy_chat_panel_slide_animation",
+      "default": true,
+      "zh": "聊天面板滑动动画",
+      "en": "Chat panel slide animation"
+    },
+    {
+      "key": "$cozy_creative_tab_item_texture",
+      "default": true,
+      "zh": "创造背包 Tab 物品贴图渲染",
+      "en": "Creative inventory tab item texture rendering"
+    },
+    {
+      "key": "$cozy_close_container_on_hurt",
+      "default": false,
+      "zh": "受伤时关闭容器界面",
+      "en": "Close container screen when player takes damage"
+    },
+    {
+      "key": "$cozy_hide_enchant_text_in_tooltip",
+      "default": false,
+      "zh": "隐藏提示框中的附魔文字",
+      "en": "Hide enchantment text in HUD item tooltip"
+    },
+    {
+      "key": "$cozy_low_perf_button_hover_animation",
+      "default": false,
+      "zh": "按钮悬停动画（低性能模式）",
+      "en": "Button hover animation (low performance mode)"
+    },
+    {
+      "key": "$cozy_selected_item_gradient_animation",
+      "default": true,
+      "zh": "物品选择框动态渐变",
+      "en": "Selected item highlight animated gradient"
+    },
+    {
+      "key": "$cozy_container_scale_transition",
+      "default": true,
+      "zh": "容器界面缩放过渡动画",
+      "en": "Container screen scale transition animation"
+    },
+    {
+      "key": "$cozy_furnace_recipe_screen",
+      "default": false,
+      "zh": "熔炉配方界面 (1.21.30以上可用)",
+      "en": "Furnace recipe screen (1.21.30+)"
+    }
+  ],
+  "moduleGroup": [
+    {
+      "key": "$cozy_hide_hud_button",
+      "default": false,
+      "zh": "一键隐藏 HUD 按钮",
+      "en": "One-click hide HUD button"
+    },
+    {
+      "key": "$cozy_container_quick_move",
+      "default": false,
+      "zh": "容器快速移动物品",
+      "en": "Container quick item transfer"
+    },
+    {
+      "key": "$cozy_hud_inventory_display",
+      "default": false,
+      "zh": "HUD 背包显示",
+      "en": "Inventory display on HUD"
+    },
+    {
+      "key": "$cozy_container_chest_transfer",
+      "default": false,
+      "zh": "容器一键批量搬运",
+      "en": "Container one-click bulk transfer"
+    },
+    {
+      "key": "$cozy_hud_clock",
+      "default": false,
+      "zh": "HUD 显示时钟",
+      "en": "Display clock on HUD"
+    },
+    {
+      "key": "$cozy_hud_compass",
+      "default": false,
+      "zh": "HUD 显示指南针",
+      "en": "Display compass on HUD"
+    }
+  ],
+  "valueGroup": [
+    {
+      "key": "$cozy_global_font_type",
+      "default": "default",
+      "zh": "全局字体类型",
+      "en": "Global font type",
+      "isFont": true
+    },
+    {
+      "key": "$cozy_stack_count_label_font_type",
+      "default": "OldSmoothFont",
+      "zh": "物品数量标签字体",
+      "en": "Item stack count label font type",
+      "isFont": true
+    },
+    {
+      "key": "$cozy_container_screen_bg_alpha",
+      "default": "0.37619432",
+      "zh": "容器界面背景透明度",
+      "en": "Container screen background opacity",
+      "isFont": false
+    },
+    {
+      "key": "$cozy_chat_panel_slide_duration",
+      "default": "0.431367",
+      "zh": "聊天面板滑动动画时长",
+      "en": "Chat panel slide animation duration",
+      "isFont": false
+    },
+    {
+      "key": "$cozy_inventory_stack_count_font_type",
+      "default": "OldSmoothFont",
+      "zh": "背包物品数量字体",
+      "en": "Inventory item stack count font type",
+      "isFont": true
+    }
+  ]
+}
