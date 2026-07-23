@@ -7,6 +7,18 @@
 			"en": "Test"
 		},
 		{
+			"key": "$cozy_test1",
+			"default": true,
+			"zh": "Test1",
+			"en": "Test1"
+		},
+		{
+			"key": "$cozy_test2",
+			"default": false,
+			"zh": "Test2",
+			"en": "Test2"
+		},
+		{
 			"key": "$cozy_java_progress_screen",
 			"default": false,
 			"zh": "Java 版加载界面",
