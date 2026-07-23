@@ -1,14 +1,8 @@
 {
 	"defaultGroup": [
 		{
-			"key": "$cozy_hello",
-			"default": false,
-			"zh": "Hello",
-			"en": "Hello"
-		},
-		{
 			"key": "$cozy_test",
-			"default": true,
+			"default": false,
 			"zh": "Test",
 			"en": "Test"
 		},
