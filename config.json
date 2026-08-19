@@ -1,12 +1,6 @@
 {
 	"defaultGroup": [
 		{
-			"key": "$cozy_test",
-			"default": false,
-			"zh": "Test",
-			"en": "Test"
-		},
-		{
 			"key": "$cozy_java_progress_screen",
 			"default": false,
 			"zh": "Java 版加载界面",
@@ -113,6 +107,12 @@
 			"default": false,
 			"zh": "熔炉配方界面 (1.21.30以上可用)",
 			"en": "Furnace recipe screen (1.21.30+)"
+		},
+		{
+			"key": "$cozy_elipses_texture",
+			"default": false,
+			"zh": "隐藏背包按钮贴图",
+			"en": "Hide elipses texture"
 		}
 	],
 	"moduleGroup": [
