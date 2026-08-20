@@ -68,7 +68,7 @@
     },
     {
       "key": "$cozy_creative_tab_item_texture",
-      "default": true,
+      "default": false,
       "zh": "创造背包 Tab 物品贴图渲染",
       "en": "Creative inventory tab item texture rendering"
     },
