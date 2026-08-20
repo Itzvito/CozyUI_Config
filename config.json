@@ -217,7 +217,7 @@
     },
     {
       "type": "menu",
-      "options": ["事例1", "事例2", "事例3"],
+      "options": ["scale", "translation", "none"],
       "key": "$cozy_container_animation_types",
       "default": "scale",
       "zh": "容器动画类型",
