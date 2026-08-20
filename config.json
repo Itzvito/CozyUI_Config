@@ -178,17 +178,17 @@
     {
       "type": "slider",
       "key": "$cozy_container_screen_bg_alpha",
-      "default": "0.37619432",
+      "default": "0.376",
       "zh": "容器界面背景透明度",
       "en": "Container screen background opacity",
       "min": 0.0,
       "max": 1.0,
-      "step": 0.01
+      "step": 0.001
     },
     {
       "type": "slider",
       "key": "$cozy_chat_panel_slide_duration",
-      "default": "0.431367",
+      "default": "0.431",
       "zh": "聊天面板滑动动画时长",
       "en": "Chat panel slide animation duration",
       "min": 0.0,
@@ -216,7 +216,8 @@
       "step": 0.01
     },
     {
-      "type": "font",
+      "type": "menu",
+      "options": ["事例1", "事例2", "事例3"],
       "key": "$cozy_container_animation_types",
       "default": "scale",
       "zh": "容器动画类型",
