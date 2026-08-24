@@ -4,7 +4,25 @@
       "key": "$cozy_java_progress_screen",
       "default": false,
       "zh": "Java 版加载界面",
-      "en": "Java progress screen"
+      "en": "Java edition progress screen"
+    },
+    {
+      "key": "$cozy_java_start_screen",
+      "default": false,
+      "zh": "Java 版主界面",
+      "en": "Java edition start screen"
+    },
+    {
+      "key": "$cozy_java_recipe_container_cell",
+      "default": false,
+      "zh": "Java 版配方栏",
+      "en": "Java edition recipe container cell"
+    },
+    {
+      "key": "$cozy_java_subtitles",
+      "default": false,
+      "zh": "Java 版声音字幕样式",
+      "en": "Java edition subtitle style"
     },
     {
       "key": "$cozy_button_hover_animation",
@@ -211,6 +229,16 @@
       "default": "0.34",
       "zh": "容器位移动画时长",
       "en": "Container translation animation duration",
+      "min": 0.0,
+      "max": 1.0,
+      "step": 0.01
+    },
+    {
+      "type": "slider",
+      "key": "$cozy_java_subtitle_bg_opacity",
+      "default": "0.87",
+      "zh": "声音字幕透明度",
+      "en": "Subtitle opacity",
       "min": 0.0,
       "max": 1.0,
       "step": 0.01
