@@ -8,21 +8,27 @@
     },
     {
       "key": "$cozy_java_start_screen",
-      "default": false,
+      "default": true,
       "zh": "Java 版主界面",
       "en": "Java edition start screen"
     },
     {
       "key": "$cozy_java_recipe_container_cell",
-      "default": false,
+      "default": true,
       "zh": "Java 版配方栏",
       "en": "Java edition recipe container cell"
     },
     {
       "key": "$cozy_java_subtitles",
-      "default": false,
+      "default": true,
       "zh": "Java 版声音字幕样式",
       "en": "Java edition subtitle style"
+    },
+    {
+      "key": "$cozy_java_creative_inventory_style",
+      "default": true,
+      "zh": "Java 版创造背包样式",
+      "en": "Java edition creative inventory style"
     },
     {
       "key": "$cozy_button_hover_animation",
