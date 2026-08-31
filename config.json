@@ -33,7 +33,7 @@
     {
       "key": "$cozy_java_selected_logic",
       "default": true,
-      "zh": "Java 版选择框逻辑,
+      "zh": "Java 版选择框逻辑",
       "en": "Java edition selected logic"
     },
     {
