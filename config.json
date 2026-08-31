@@ -31,6 +31,12 @@
       "en": "Java edition creative inventory style"
     },
     {
+      "key": "$cozy_java_selected_logic",
+      "default": true,
+      "zh": "Java 版选择框逻辑,
+      "en": "Java edition selected logic"
+    },
+    {
       "key": "$cozy_button_hover_animation",
       "default": true,
       "zh": "按钮悬停动画",
