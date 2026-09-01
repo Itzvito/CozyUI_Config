@@ -143,6 +143,12 @@
       "default": false,
       "zh": "村民提前交易物品 (仅单人可用)",
       "en": "Villager trade unlocks (Singleplayer only)"
+    },
+    {
+      "key": "$cozy_bottom_left_chat_panel",
+      "default": false,
+      "zh": "左下角聊天栏",
+      "en": "Bottom-left chat panel"
     }
   ],
   "moduleGroup": [
