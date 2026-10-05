@@ -145,6 +145,12 @@
       "en": "Villager trade unlocks (Singleplayer only)"
     },
     {
+      "key": "$cozy_container_hud_render",
+      "default": false,
+      "zh": "容器界面渲染 Hud 界面内容",
+      "en": "Container UI can render HUD content"
+    },
+    {
       "key": "$cozy_bottom_left_chat_panel",
       "default": false,
       "zh": "左下角聊天栏",
